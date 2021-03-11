@@ -1,0 +1,20 @@
+{
+	"video widget": "The label for the video widget.",
+	"Side video": "The label for the Side video option.",
+	"Full size video": "The label for the Full size video option.",
+	"Left aligned video": "The label for the Left aligned video option.",
+	"Centered video": "The label for the Centered video option.",
+	"Right aligned video": "The label for the Right aligned video option.",
+	"Upload failed": "The title of the notification displayed when upload fails.",
+	"Video toolbar": "The label used by assistive technologies describing an video toolbar attached to an video widget.",
+	"Resize video": "The label used for the dropdown in the video toolbar containing defined resize options.",
+	"Resize video to %0": "The label used for the standalone resize options buttons in the video toolbar.",
+	"Resize video to the original size": "The accessibility label of the standalone video resize reset option button in the video toolbar for screen readers.",
+	"Original": "The default label for the resize option that resets the size of the video.",
+	"Video resize list": "The accessibility label of the video resize dropdown for screen readers.",
+	"Insert": "The label of the form submit button if the video source URL input has no value.",
+	"Update": "The label of the form submit button if the video source URL input has a value.",
+	"Insert video via URL": "The input label for the Insert video via URL form.",
+	"Update video URL": "The input label for the Insert video via URL form for a pre-existing video.",
+	"Paste the video source URL.": "The content of the tip below the Insert video via URL form."
+}
